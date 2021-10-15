@@ -3,3 +3,7 @@
 One of the Kaggle NLP projects for beginner
 
 https://www.kaggle.com/c/nlp-getting-started/overview
+
+
+# next steps
+ fixing the overfitting problem on train dataset
