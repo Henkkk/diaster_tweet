@@ -1,4 +1,4 @@
-# diaster_tweet
+# diaster_tweet(real or fake)
 
 One of the Kaggle NLP projects for beginner
 
